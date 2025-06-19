@@ -1,5 +1,6 @@
 # Porcentaje de asignación de subsidios por Departamento
 ![Porcentaje asignado por Departamento](https://github.com/user-attachments/assets/d599c5da-c50c-4e3d-9737-9bbd7d1c51fa)
+
 Se presenta una visualización de los datos de porcentaje los valores de destinados por departamento, representada por un gráfico de pastel que a su vez se georreferencian en el mapa, además se puede conocer el valor total por departamento y el número de hogares favorecidos con el subsidio de vivienda. 
 
  **Gráfico de Pastel**:
