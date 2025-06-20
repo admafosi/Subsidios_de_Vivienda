@@ -1,5 +1,6 @@
 # Asignacion de Subsidios - Número de hogares por año
-![Asignacion de Subsidios - Número de hogares por año](https://github.com/user-attachments/assets/5441c091-d557-454b-b0b7-b84c681e34bc)
+
+![Asignacion de Subsidios - Número de hogares por año](https://github.com/user-attachments/assets/7b1c704a-a037-428a-a966-5ccd16146458)
 
 1. **Asignación de Subsidios - Número de hogares por año (Gráfica de Líneas)**:
 Esta gráfica muestra la evolución del número de hogares a los que se les asignaron subsidios a lo largo de los años (representados en el eje X). Se observa una fluctuación en el número de hogares beneficiados con subsidios anualmente, con picos y valles en diferentes periodos.
