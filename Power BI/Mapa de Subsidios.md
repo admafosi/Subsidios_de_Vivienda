@@ -1,7 +1,7 @@
 # Power BI 
 # Mapa de Subsidios de Vivienda en Colombia
 
-![Mapa de Subsidios de Vivienda en Colombia](https://github.com/user-attachments/assets/82f33dd7-59d4-4584-9723-36b8cd9d8196)
+![Mapa de Subsidios de Vivienda en Colombia](https://github.com/user-attachments/assets/1421822f-4058-4e37-a3d9-47dd845ced8a)
 
 El mapa georreferenciado de Colombia, representa la distribución de subsidios de vivienda asignados por departamento. Las diferentes tonalidades en este permiten identificar de manera rápida y visual qué departamentos han recibido mayor o menor cantidad de subsidios. 
 Además, a través de la interacción con el mapa y seleccionando un departamento específico se podrá conocer el total de subsidios otorgados en ese territorio. A su vez, al seleccionar un municipio dentro de ese departamento, muestra el número de subsidios asignados a este, lo que proporciona un nivel de detalle más granular y útil para el análisis territorial.
